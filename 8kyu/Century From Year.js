@@ -19,3 +19,5 @@ function century(year) {
         return Math.trunc(dividedYear) + 1
     }
 }
+
+// test
