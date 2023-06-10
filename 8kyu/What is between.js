@@ -7,9 +7,9 @@
 // --> [1, 2, 3, 4]
 
 function between(a, b) {
-    let newArr = []
+    let arrToReturn = []
     for (let i = a; i <= b; i++) {
         newArr.push(i)
     }
-    return newArr
+    return arrToReturn
 }
