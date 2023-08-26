@@ -8,7 +8,7 @@
 // 960000 -> 96
 // 1050 -> 105
 // -1050 -> -105
-// Zero alone is fine, don't worry about it. Poor guy anyway
+// Zero alone is fine, don't worry about it. Poor guy anyway!
 
 function noBoringZeros(n) {
     let strN = String(n)
